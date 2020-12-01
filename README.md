@@ -1,6 +1,7 @@
 # Low-techs
 
-
+Technology is not the solution to every problems, and seeking progress for progress is a dead-end.
+Techniques must be rather be useful, accessible and sustainable. 
 
 ## Using ICT
 * Turn Off the Lights, for Firefox and Google Chrome : put you Youtube videos in 144p !
